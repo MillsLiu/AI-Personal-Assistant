@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+temp/
+knowledgebases/
+db_server/data/
+*.db
+data/
+.vscode/
